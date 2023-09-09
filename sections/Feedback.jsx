@@ -7,7 +7,7 @@ import { fadeIn, staggerContainer, zoomIn } from '../utils/motion';
 
 const Feedback = () => (
   <section className={`${styles.paddings}`}>
-    <motion.div
+    {/* <motion.div
       variants={staggerContainer}
       initial="hidden"
       whileInView="show"
@@ -56,7 +56,7 @@ const Feedback = () => (
           />
         </motion.div>
       </motion.div>
-    </motion.div>
+    </motion.div> */}
   </section>
 );
 

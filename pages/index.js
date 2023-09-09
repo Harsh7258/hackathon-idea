@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { Footer, Navbar } from '../components';
 import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
 
@@ -9,6 +10,7 @@ const Home = () => (
       <About />
       <div className="gradient-03 z-0" />
       <Explore />
+    
     </div>
     <div className="relative">
       <GetStarted />
@@ -17,8 +19,10 @@ const Home = () => (
     </div>
     <World />
     <div className="relative">
+      <Link href="/test">
       <Insights />
-      <div className="gradient-04 z-0" />
+      </Link>
+      <div className="gradiśent-04 z-0" />
       <Feedback />
     </div>
     <Footer />

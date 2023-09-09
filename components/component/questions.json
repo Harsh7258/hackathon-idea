@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "question" : "hello ai",
+        "answer" : "hello! welcome to introvert area"
+    },
+    {
+        "id": 2,
+        "question" : "What is trauma?",
+        "answer" : "Trauma refers to an emotional or psychological response to a distressing or disturbing event. It can result from various experiences, including accidents, abuse, natural disasters, or loss."
+    },
+    {
+        "id": 3,
+        "question" : "What is grief?",
+        "answer" : "Grief is a natural response to loss, often associated with the death of a loved one. It involves a range of emotions and behaviors as individuals process their feelings of sadness, anger, guilt, and more."
+    },
+    {
+        "id": 4,
+        "question" : "How can I cope with the loss of a loved one?",
+        "answer" : "Coping with the loss of a loved one can be challenging. It's important to seek support from friends, family, or a therapist. Grief counseling and support groups can also be beneficial."
+    },
+    {
+        "id": 5,
+        "question" : "What are common signs of trauma?",
+        "answer" : "Common signs of trauma include flashbacks, nightmares, anxiety, depression, emotional numbness, and avoidance of situations that remind the person of the traumatic event."
+    },
+    {
+        "id": 6,
+        "question" : "Is it normal to experience grief for an extended period of time?",
+        "answer" : "Yes, it's normal for grief to last for an extended period. Grief is a highly individualized process, and its duration varies from person to person. It can continue for months or even years."
+    },
+    {
+        "id": 7,
+        "question" : "What are some healthy ways to cope with trauma?",
+        "answer" : "Healthy coping strategies for trauma include seeking therapy, talking about the experience, practicing relaxation techniques, and engaging in self-care activities like exercise and meditation."
+    },
+    {
+        "id": 8,
+        "question" : "Can children experience trauma and grief?",
+        "answer" : "Yes, children can experience trauma and grief. They may have difficulty understanding and processing their emotions, so it's crucial to provide age-appropriate support and reassurance."
+    },
+    {
+        "id": 9,
+        "question" : "Is it possible to recover from trauma?",
+        "answer" : "Yes, recovery from trauma is possible. Many people find healing through therapy, support groups, and self-care practices. It's a process that takes time and patience."
+    },
+    {
+        "id": 10,
+        "question" : "What's the difference between complicated grief and regular grief?",
+        "answer" : "Complicated grief, also known as prolonged grief disorder, is characterized by an extended and intense grieving process that can interfere with daily functioning. Regular grief typically follows a more typical course of emotions over time."
+    },
+    {
+        "id": 11,
+        "question" : "What can I do to support someone who is grieving?",
+        "answer" : "Offer your presence, listen without judgment, and provide practical support. Avoid trying to 'fix' their grief; instead, be a compassionate and patient presence in their life."
+    },
+    {
+        "id": 12,
+        "question" : "How can I help a child who has experienced trauma or grief?",
+        "answer" : "Create a safe and open space for them to express their feelings. Use age-appropriate language to explain the situation, reassure them, and consider seeking professional help if needed."
+    },
+    {
+        "id": 13,
+        "question" : "great to see you",
+        "answer" : "yeah great you are here"
+    },
+    {
+        "id": 14,
+        "question" : "help me to navigate through app",
+        "answer" : "yeah sure go to sessions"
+    },
+    {
+        "question" : "open youtube",
+        "answer" : "opening your youtube"
+    },
+    {
+        "question" : "open our source code",
+        "answer" : "opening your source code"
+    }
+    
+]

@@ -1,11 +1,13 @@
 'use client';
 
 import { motion } from 'framer-motion';
-
+import {useRouter} from "next/router";
 import styles from '../styles';
 import { navVariants } from '../utils/motion';
 
-const Navbar = () => (
+const Navbar = () => {
+  const router = useRouter();
+  return(
   <motion.nav
     variants={navVariants}
     initial="hidden"
@@ -27,11 +29,11 @@ const Navbar = () => (
       </h6>
       </a>
 
-      <a href='#explore'>
+      
       <h6 className="font-medium text-[20px] leading-[30.24px] text-white">
-        Sessions
+      Session
       </h6>
-      </a>
+      
 
       <a href=''>
       <h6 className="font-medium text-[20px] leading-[30.24px] text-white">
@@ -47,6 +49,7 @@ const Navbar = () => (
       
     </div>
   </motion.nav>
-);
+  )
+};
 
 export default Navbar;

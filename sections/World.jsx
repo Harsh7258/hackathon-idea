@@ -8,7 +8,7 @@ import { fadeIn, staggerContainer } from '../utils/motion';
 
 const World = () => (
   <section className={`${styles.paddings} relative z-10`}>
-    <motion.div
+    {/* <motion.div
       variants={staggerContainer}
       initial="hidden"
       whileInView="show"
@@ -44,7 +44,7 @@ const World = () => (
           <img src="people-03.png" alt="people" className="w-full h-full" />
         </div>
       </motion.div>
-    </motion.div>
+    </motion.div> */}
   </section>
 );
 

@@ -1,28 +1,34 @@
+import Link from "next/link";
 export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/photo4.jpeg',
     title: 'Trauma & Grief',
+    link: "/health-issue/Trauma",
   },
   {
     id: 'world-2',
     imgUrl: '/photo2.jpeg',
     title: 'Physchiatric Intervention',
+    link: "/health-issue/physc",
   },
   {
     id: 'world-3',
     imgUrl: '/photo1.jpeg',
     title: 'Addictions',
+    link: "/health-issue/postnatal",
   },
   {
     id: 'world-4',
     imgUrl: '/photo3.jpeg',
     title: 'Postnatal Care',
+    link: "/health-issue/postnatal",
   },
   {
     id: 'world-5',
     imgUrl: '/photo5.jpeg',
     title: 'Inner Work',
+    link: "/health-issue/Trauma",
   },
 ];
 
@@ -35,36 +41,36 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'A new area',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'We provides basic help to introverts and Gen Z',
   },
   {
     imgUrl: '/headset.svg',
     title: 'More realistic',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Where they come and get help regarding there mental health and get help before it get worst',
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/qq.svg',
+    title: 'Self-care, play, and healthy coping skills',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Self-care, play, and healthy coping mechanisms are integral to mental health',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/qqq.svg',
+    title: 'Noticed an increase in anxiety',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Much of the time, anxiety is healthy and signals stress or uncertainty',
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: '/qqqq.svg',
+    title: 'Disproportionately affected oppressed populations',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Privilege and mental health are inextricably linked',
   },
 ];
 
